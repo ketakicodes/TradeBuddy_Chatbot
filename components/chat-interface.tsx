@@ -597,7 +597,7 @@ You can view it in the **Images** tab on the right.`,
                           className="w-2 h-2 bg-white rounded-full animate-bounce [animation-delay:0.2s]"
                         />
                       </div>
-                      <span className="text-sm text-[#B0B0B0]">Gemini is thinking...</span>
+                      <span className="text-sm text-[#B0B0B0]">TradeBuddy is...</span>
                     </div>
                   </div>
                 </div>
